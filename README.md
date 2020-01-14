@@ -3,6 +3,7 @@
 By Gee-Sern Hsu, Wen-Fong Huang, Moi Hoon Yap
 
 Using the face proﬁling approach, Zhu et al. offer the 300W-LP (Large-Pose) dataset that contains faces made from the 300W database [1] with each face rotated in yaw at 5◦ each step up to 90◦ [2]. On top of this dataset, we augment it with additional data made with rotation in pitch with the same 5◦ step up to ±25◦. We call this dataset the 300W-LPA (Large-Pose Augmented). 
+
 [1] C. Sagonas, G. Tzimiropoulos, S. Zafeiriou, and M. Pantic, “300 faces in-the-wild challenge: The ﬁrst facial landmark localization challenge,” in CVPRW, 2013. 
 
 [2] X. Zhu, Z. Lei, X. Liu, H. Shi, and S. Z. Li, “Face alignment across large poses:A3dsolution,”in Proceedings of the IEEE conference on computer vision and pattern recognition, 2016, pp. 146–155. 
@@ -73,11 +74,11 @@ Citation and Contact
 If you like our work or find 300W-LPA dataset useful, please cite the following paper：
 
 ```
-@article{hsu2018deep,
-  title={Deep hierarchical network with line segment learning for quantitative analysis of facial palsy},
-  author={Hsu, Gee-Sern Jison and Kang, Jiunn-Horng and Huang, Wen-Fong},
+@article{hsu2019edge,
+  title={Edge-Embedded Multi-Dropout Framework for Real-Time Face Alignment},
+  author={Hsu, Gee-Sern Jison and Huang, Weng-Fong and Yap, Moi Hoon},
   journal={IEEE Access},
-  year={2018},
+  year={2019}
 }
 ```
 
