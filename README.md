@@ -9,6 +9,7 @@ The database also contains:
 - Landmark annotations:
   136 coordinates for 68 landmark points.
   The first 68 digits for x, the latter 68 for y
+
 A detailed introduction of 300W-LPA can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/8935175).
 
 Here are some examples from the dataset.
