@@ -63,6 +63,9 @@ To guarantee the proper use of this database, the following restrictions must be
  
 No country or institution is excluded of any of the above restrictions. Failure to follow the restrictions will be legally prosecuted.
 
+Download Link
+-
+[300W-LPA Download Link](https://drive.google.com/open?id=1euJy-8iL62n5gY2d1AqACOZMN3HFJVnz)
 
 Citation and Contact
 --
