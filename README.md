@@ -3,7 +3,7 @@
 By Gee-Sern Hsu, Wen-Fong Huang, Moi Hoon Yap
 
 
-The 300W-LPA (Large Pose Augmented) dataset contains 366,564 images of 59,439 individuals, which enhances the learning of multi-pose facial contour and landmark localization. Due to the additional pitch data included in the training set, the pose classifier in the extension is also redesigned accordingly, making it different from that in previous work [1](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm). We have released the pitch-augmented 300W-LPA dataset with this paper, and we hope that the 300W-LPA database could revolutionized the landscape of face analysis research.
+The 300W-LPA (Large Pose Augmented) dataset contains 366,564 images of 59,439 individuals, which enhances the learning of multi-pose facial contour and landmark localization. Due to the additional pitch data included in the training set, the pose classifier in the extension is also redesigned accordingly, making it different from that in previous work [[1]](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm). We have released the pitch-augmented 300W-LPA dataset with this paper, and we hope that the 300W-LPA database could revolutionized the landscape of face analysis research.
 
 The database also contains:
 - Landmark annotations:
