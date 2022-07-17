@@ -65,7 +65,7 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-[300W-LPA Download Link](https://drive.google.com/open?id=1euJy-8iL62n5gY2d1AqACOZMN3HFJVnz)
+[300W-LPA Download Link](https://drive.google.com/drive/folders/1xpDGm7zsNkATokt_I9Qg02-NmRXIO83n?usp=sharing)
 
 Citation and Contact
 --
